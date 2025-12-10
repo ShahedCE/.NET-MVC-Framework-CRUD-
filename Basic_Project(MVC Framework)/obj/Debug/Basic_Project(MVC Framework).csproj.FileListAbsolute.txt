@@ -1,0 +1,83 @@
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Basic_Project(MVC Framework).dll.config
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Basic_Project(MVC Framework).dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Basic_Project(MVC Framework).pdb
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csc.exe
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csc.exe.config
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csc.rsp
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csi.exe
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csi.exe.config
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\csi.rsp
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.AppContext.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Collections.Immutable.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Console.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Globalization.Calendars.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.IO.Compression.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.IO.FileSystem.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Net.Http.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Net.Sockets.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Reflection.Metadata.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.ValueTuple.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Xml.XPath.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\vbc.exe
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\vbc.exe.config
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\vbc.rsp
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\VBCSCompiler.exe
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\roslyn\VBCSCompiler.exe.config
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Antlr3.Runtime.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Microsoft.Web.Infrastructure.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Newtonsoft.Json.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Helpers.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Mvc.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Optimization.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Razor.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.Deployment.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.Razor.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\WebGrease.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Helpers.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Mvc.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Optimization.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.Razor.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.Deployment.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\System.Web.WebPages.Razor.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Newtonsoft.Json.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Antlr3.Runtime.pdb
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\obj\Debug\Basic_Project(MVC Framework).csproj.AssemblyReference.cache
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\obj\Debug\Basic_Project(MVC Framework).csproj.CoreCompileInputs.cache
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\obj\Debug\Basic_Project(MVC Framework).csproj.CopyComplete
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\obj\Debug\Basic_Project(MVC Framework).dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\obj\Debug\Basic_Project(MVC Framework).pdb
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\EntityFramework.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\EntityFramework.SqlServer.dll
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\EntityFramework.xml
+E:\Advvanced .Net with C#\Basic_Project(MVC Framework)\Basic_Project(MVC Framework)\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "StudentRegistration";
+}
+
+<h2>StudentRegistration</h2>
+
+<a href="/Home/Index"> Index </a>
+<br />
+<a href="/Home/Contact">Contact</a>
+<br />
+<a href="/Home/About">ContAboutact</a>
+<br />
+
+@Html.ValidationSummary()
+<form method="post" class="form-border">
+
+    Name:<input type="text" name="Name" placeholder="Name" value="" class="form-control" />
+    Password:<input type="password" name="Password" placeholder="Password" value="" class="form-control" />
+    Email:<input type="email" name="Email" placeholder="Email" value="" class="form-control" />
+
+    Department:
+    <select name="DepartmentId">
+        <option value="">--Select Department</option>
+        <option value="100">CSE</option>
+        <option value="101">EEE</option>
+        <option value="102">BBA</option>
+        <option value="103">English</option>
+
+    </select>
+
+    <input type="submit" value="Register" class="btn btn-primary" />
+ 
+
+
+</form>
